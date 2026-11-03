@@ -105,11 +105,11 @@ Flood-Grid/
 
 Status setiap wilayah ditentukan berdasarkan tinggi air:
 
-  Tinggi Air                       Status    Simbol
-  -------------------------------- -------- --------
-  Kurang dari 10 cm                AMAN        A
-  10 cm hingga kurang dari 30 cm   SIAGA       S
-  30 cm atau lebih                 BANJIR      B
+| Tinggi Air | Status | Simbol |
+|---|---|:---:|
+| Kurang dari 10 cm | AMAN | A |
+| 10 cm hingga kurang dari 30 cm | SIAGA | S |
+| 30 cm atau lebih | BANJIR | B |
 
 ### 2. Aliran Air
 
@@ -201,19 +201,16 @@ warga terdampak, dan estimasi kerugian.
 
 ## 🧪 Pengujian Program
 
-Berdasarkan laporan tugas besar, program diuji menggunakan beberapa
-variasi intensitas hujan dan durasi:
+Berdasarkan laporan tugas besar, program diuji menggunakan beberapa variasi intensitas hujan dan durasi:
 
-  Pengujian     Intensitas Hujan   Durasi
-  ----------- ------------------ --------
-  1                     2 cm/jam    1 jam
-  2                    10 cm/jam    1 jam
-  3                    15 cm/jam    3 jam
-  4                    30 cm/jam    3 jam
+| Pengujian | Intensitas Hujan | Durasi |
+|---|---|---|
+| 1 | 2 cm/jam | 1 jam |
+| 2 | 10 cm/jam | 1 jam |
+| 3 | 15 cm/jam | 3 jam |
+| 4 | 30 cm/jam | 3 jam |
 
-Pengujian dilakukan untuk mengamati perubahan status wilayah, penyebaran
-air, jumlah warga terdampak, dan estimasi kerugian pada kondisi hujan
-yang berbeda.
+Pengujian dilakukan untuk mengamati perubahan status wilayah, penyebaran air, jumlah warga terdampak, dan estimasi kerugian pada kondisi hujan yang berbeda.
 
 ## 👥 Anggota Kelompok
 
