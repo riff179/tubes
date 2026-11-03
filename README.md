@@ -64,29 +64,12 @@ operasi aritmetika dalam bahasa Java.
 
 Program dibagi menjadi empat class utama:
 
-  -----------------------------------------------------------------------
-  Class                               Tanggung Jawab
-  ----------------------------------- -----------------------------------
-  `Wilayah`                           Menyimpan data setiap wilayah,
-                                      menambahkan air, memperbarui
-                                      status, dan menyediakan informasi
-                                      objek.
-
-  `PetaBanjir`                        Membuat grid 6 × 6, menampilkan
-                                      peta, memproses hujan dan aliran
-                                      air, serta menghitung wilayah
-                                      banjir dan warga terdampak.
-
-  `SimulasiBanjir`                    Menjalankan simulasi berdasarkan
-                                      durasi dan intensitas hujan,
-                                      menghitung persentase wilayah
-                                      banjir, serta estimasi kerugian.
-
-  `MainBanjir`                        Menjadi titik awal program,
-                                      menerima dan memvalidasi input
-                                      pengguna, kemudian menjalankan
-                                      simulasi.
-  -----------------------------------------------------------------------
+ | Class | Tanggung Jawab |
+|---|---|
+| `Wilayah` | Mengelola data wilayah dan status banjir. |
+| `PetaBanjir` | Mengelola grid, hujan, dan aliran air. |
+| `SimulasiBanjir` | Menjalankan simulasi dan menghitung kerugian. |
+| `MainBanjir` | Mengelola input dan menjalankan program. |
 
 Contoh susunan file jika seluruh class disimpan dalam satu folder:
 
@@ -216,11 +199,11 @@ Pengujian dilakukan untuk mengamati perubahan status wilayah, penyebaran air, ju
 
 Tugas Besar Proyek Pengantar Pemrograman --- Kelompok 2:
 
-    No. Nama                NIM
-  ----- ------------------- -----------
-      1 Rian Surya          G1A026005
-      2 Rifda Julio Mahdi   G1A026007
-      3 Intan Sundari       G1A026019
+ | No. | Nama | NIM |
+|---|---|---|
+| 1 | Rian Surya | G1A026005 |
+| 2 | Rifda Julio Mahdi | G1A026007 |
+| 3 | Intan Sundari | G1A026019 |
 
 **Program Studi Informatika**\
 **Fakultas Teknik --- Universitas Bengkulu**\
