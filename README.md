@@ -164,7 +164,7 @@ javac -version
 
 ### 1. Clone Repository
 
-Ganti `USERNAME` dan `NAMA-REPOSITORY` sesuai repository GitHub proyek:
+Salin link repository Github project :
 
 ``` bash
 git clone https://github.com/riff179/tubes.git
@@ -173,7 +173,7 @@ git clone https://github.com/riff179/tubes.git
 Masuk ke folder proyek:
 
 ``` bash
-cd NAMA-REPOSITORY
+cd tubes
 ```
 
 ### 2. Compile Program
