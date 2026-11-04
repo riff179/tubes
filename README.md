@@ -186,12 +186,11 @@ warga terdampak, dan estimasi kerugian.
 
 Berdasarkan laporan tugas besar, program diuji menggunakan beberapa variasi intensitas hujan dan durasi:
 
-| Pengujian | Intensitas Hujan | Durasi |
-|---|---|---|
-| 1 | 2 cm/jam | 1 jam |
-| 2 | 10 cm/jam | 1 jam |
-| 3 | 15 cm/jam | 3 jam |
-| 4 | 30 cm/jam | 3 jam |
+| Pengujian | Intensitas Hujan | Durasi | Wilayah Banjir | Persentase | Warga Terdampak | Estimasi Kerugian |
+|-----------|------------------|--------|----------------|------------|-----------------|-------------------|
+| 1         | 2 cm/jam         | 2 jam  | 0 dari 36      | 0,00%      | 0 orang         | Rp0               |
+| 2         | 10 cm/jam        | 3 jam  | 13 dari 36     | 36,11%     | 5.296 orang     | Rp10.592.000.000  |
+| 3         | 20 cm/jam        | 5 jam  | 36 dari 36     | 100,00%    | 22.489 orang    | Rp53.973.600.000  |
 
 Pengujian dilakukan untuk mengamati perubahan status wilayah, penyebaran air, jumlah warga terdampak, dan estimasi kerugian pada kondisi hujan yang berbeda.
 
